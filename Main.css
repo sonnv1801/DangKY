@@ -1,6 +1,9 @@
+/* body{
+    background-color: brown;
+} */
 .container1{
     width: 500px;
-    height: 700px;
+    height: 650px;
     background-color: aqua;
     border-radius: 30px;
 }
